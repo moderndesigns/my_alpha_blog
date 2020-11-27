@@ -6,4 +6,11 @@ class ArticlesController < ApplicationController
 
     end
 
+    def index
+
+        @artilces = Article.all
+
+    end
+
+
 end
