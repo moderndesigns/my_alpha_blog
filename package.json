@@ -1,9 +1,4 @@
 {
-  "scripts": {
-
-    "start":"node index,js"
-
-},
   "name": "my_alpha_blog",
   "private": true,
   "dependencies": {
