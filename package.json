@@ -1,4 +1,9 @@
 {
+  "scripts": {
+
+    "start":"node index,js"
+
+},
   "name": "my_alpha_blog",
   "private": true,
   "dependencies": {
@@ -13,9 +18,5 @@
     "webpack-dev-server": "^3.11.0"
   },
 
-  "scripts": {
-
-      "start":"node index,js"
-
-  },
+  
 }
